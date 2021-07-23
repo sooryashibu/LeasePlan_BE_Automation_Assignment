@@ -1,4 +1,4 @@
-package starter.postcodes;
+package main.leaseplan_qa;
 
 public class WeatherResponse {
     public static final String COUNTRY = "'location'.'country'";

@@ -1,4 +1,4 @@
-package starter.postcodes;
+package main.leaseplan_qa;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

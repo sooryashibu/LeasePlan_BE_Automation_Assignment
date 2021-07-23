@@ -1,4 +1,4 @@
-package starter.postcodes;
+package main.leaseplan_qa;
 
 import net.serenitybdd.core.environment.EnvironmentSpecificConfiguration;
 import net.serenitybdd.rest.SerenityRest;
